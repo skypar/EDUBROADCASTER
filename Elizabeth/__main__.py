@@ -39,9 +39,9 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 
 PM_START_TEXT = f"""
-`Hi..Welcome` [🦋](https://telegra.ph/file/debaabe44781f92783315.jpg)
+ITS EDU BROADCASTER BOT [💐](https://telegra.ph/file/891a5e52e346e596705a4.jpg)
 `I'm`  єlízαвєth
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+`click on help to how to go through it for advertise`
 """
 
 buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
@@ -49,11 +49,11 @@ buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
 ]]
 
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+                                  url="t.me/tgedubot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
-                                  url="https://t.me/MR_SHRLOCK/49"),
+                                  url="https://t.me/maskedcoder7"),
              InlineKeyboardButton(text="SUPPORT🌳",
                                   url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
 ]]
@@ -63,7 +63,7 @@ buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
 
 
 HELP_STRINGS = f"""
-`Hi.. I'm` єlízαвєth[🦋](https://telegra.ph/file/54ed9e0d6eef2cc730f12.jpg)
+`ITS EDU NEWS BROADCASTER [🙏](https://telegra.ph/file/891a5e52e346e596705a4.jpg)
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
