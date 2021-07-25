@@ -40,12 +40,12 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 ITS EDU BROADCASTER BOT [💐](https://telegra.ph/file/891a5e52e346e596705a4.jpg)
-`I'm`  єlízαвєth
+`I'm` here to broadcast your post
 `click on help to how to go through it for advertise`
 """
 
-buttons = [[InlineKeyboardButton(text=" HELP AND COMMANDS ❓",
-                                  callback_data="help_back"),
+buttons = [[InlineKeyboardButton(text=" HOW I WORKS ❓",
+                                  url="t.me/educationalnewsboradcaster"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
@@ -55,7 +55,7 @@ buttons += [[InlineKeyboardButton(text="♻️ ADD ME TO YOUR GROUP ♻️",
 buttons += [[InlineKeyboardButton(text="SOURCE CODE 💫",
                                   url="https://t.me/maskedcoder7"),
              InlineKeyboardButton(text="SUPPORT🌳",
-                                  url="https://t.me/joinchat/oxSPzt02LkgxOTY9"),
+                                  url="https://t.me/EDUCATIONALADVERTISEMENT"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🎀 CLOSE THE MENU 🎀",
