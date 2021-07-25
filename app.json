@@ -1,6 +1,6 @@
 {
-  "name": "tgedunewsbot",
-  "description": "A Powerful Telegram news boradcaster bot",
+  "name": "tgedubot",
+  "description": "A Powerful boradcaster",
   "logo": "https://telegra.ph/file/891a5e52e346e596705a4.jpg",
   "keywords": ["telegram-bot"],
   "repository": "https://github.com/maskedcoder7/EDUBROADCASTER",
@@ -47,27 +47,30 @@
       "value": "",
       "required": true
     },
-     
+    "DONATION_LINK": {
+      "description": "Enter Donation link..",
+      "required": false,
+      "value": "https://github.com/maskedcoder7"
     },
     "SUDO_USERS": {
       "description": "List of user id's who will have SUDO rights in your bot(they can't be banned/warned etc. by the bot)",
-      "value": 
+      "value": "your user id",
       "required": false
     },
     "SUPPORT_USERS": {
       "description": "Support users Id's.",
       "required": false,
-      "value": 
+      "value": "user id"
    },
    "WHITELIST_USERS": {
      "description": "Whitelist user Id's.",
      "required": false,
-     "value": 
+     "value": "user id"
    },
    "DEV_USERS": {
      "description": "Developers id",
      "required": false,
-     "value": 
+     "value": "user id"
    },
    "WEBHOOK": {
       "description": "Nothing here.",
